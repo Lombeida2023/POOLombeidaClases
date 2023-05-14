@@ -34,4 +34,17 @@ public class CarroLombeida {//Clase
         System.out.println("Apagacion : Su velocidad cambia a 00km por hora..");
   }
   
+  
+  
+  public void PonerCombustible(){
+        System.out.println("Combustible: Consumea 2.2 turbodiesel gasta 7,9 litros cada 100 km/h en ruta (a 120 km/h)  por hora..");
+  }
+  
+   public void GastoMecanicos(){
+        System.out.println("Gastos Mecanicos mensuales: $50,005..........");
+  }
+   
+     public void GastosdDocumentacion(){
+        System.out.println("Gastos de documentacion: $10,000..........");
+  }
 }
